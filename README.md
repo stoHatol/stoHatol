@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm 15 years old <3...
 -->
 
+<a href="https://github.com/echasnovski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoHatol&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
+</a>
+<a href="https://github.com/echasnovski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stoHatol&show_icons=true&count_private=true&line_height=27&theme=ayu-mirage" />
+</a>
+
