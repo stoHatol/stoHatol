@@ -1,3 +1,5 @@
+![](https://github.com/MrCatNerd/MrCatNerd/blob/main/assets/ghgif.gif)
+
 - 🌱 I’m currently learning C# PHP PY & SQL <3 
 - 💬 Ask me about Anythin <3 
 - 📫 How to reach me temp@hatol.cloud 
